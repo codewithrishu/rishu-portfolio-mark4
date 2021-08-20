@@ -19,7 +19,7 @@ body{
 
 }
 
-ul{
+.my_nav ul{
     list-style-type: none;
     text-align: right;
     padding-right: 35px;
